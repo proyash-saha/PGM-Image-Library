@@ -12,4 +12,4 @@ Note:
 
 * A sample pgm image is provided for your convenience. You have to enter the name of the image into the terminal while running main.py.  
 
-* The numpy package must be installed before you use the library.  
+* The Numpy package and Python version 3 must be installed before you use the library.  
